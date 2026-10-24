@@ -1,0 +1,5 @@
+sample_id,headline_or_text,spectral_flatness,pitch_jitter,energy_variance,actual_label
+S001,"BREAKING: Secret government cure found that doctors are hiding from you!",0.015,0.085,0.012,Deepfake_Audio_and_Fake_News
+S002,"The central bank announced a modest adjustment to interest rates during Thursday's briefing.",0.042,0.012,0.045,Authentic
+S003,"SHOCKING footage shows celebrity admitting to impossible crimes in leaked audio clip.",0.010,0.092,0.009,Deepfake_Audio
+S004,"Quarterly earnings report indicates steady growth across all major market sectors.",0.040,0.010,0.040,Authentic
